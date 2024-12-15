@@ -1,4 +1,4 @@
-#Flask App on ECS
+# Simple Flask App Locally/ECS
 
 This repository contains a simple Flask web application designed to be deployed on AWS Elastic Container Service (ECS). It demonstrates how to containerize a Python application and run it in a cloud environment.
 
